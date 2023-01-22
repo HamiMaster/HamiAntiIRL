@@ -1,0 +1,7 @@
+body {
+    background-image: url("https://i.imgur.com/6gu1DAT_d.webp?maxwidth=760&fidelity=grand") !important;
+    /* background-position:center; */
+    background-size: 100% 100% !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+}
